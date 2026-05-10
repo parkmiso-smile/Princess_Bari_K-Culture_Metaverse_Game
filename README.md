@@ -3,3 +3,7 @@
 
 
 https://play.viven.app/auth/promotion
+
+## 해커톤 내용 
+https://events.viven.app/20260116-hackathon/
+
